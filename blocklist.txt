@@ -1,1 +1,1 @@
-*.googleusercontent.com
+@@||googleusercontent.com$document
