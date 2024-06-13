@@ -1,2 +1,3 @@
 @@||googleusercontent.com$document
 @@||googlevideo.com$document
+ads.google.com
